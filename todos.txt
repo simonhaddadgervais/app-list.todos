@@ -1,4 +1,3 @@
-study
-cook
+workcook
 throw
-story
+finishgoodjump
