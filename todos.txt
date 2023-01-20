@@ -1,3 +1,5 @@
 work
 clean
-
+throw
+jump
+get
