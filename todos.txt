@@ -1,5 +1,3 @@
-work
-clean
-throw
-jump
-get
+Feed and walk Freddy
+Clean kitchen
+Call the bank
